@@ -1,0 +1,60 @@
+Stocks: StockID: 1
+title: The Shining
+Cost: £3.5
+Loaned: true
+Item type: book
+
+Stocks: StockID: 2
+title: Do Androids Dream of Electric Sheep
+Cost: £4.99
+Loaned: false
+Item type: book
+
+Stocks: StockID: 1
+title: Java life
+Cost: £2.0
+Loaned: false
+Item type: journals
+
+Stocks: StockID: 2
+title: Java the hut
+Cost: £5.49
+Loaned: false
+Item type: journals
+
+Stocks: StockID: 1
+title: Spider-man: No Way Home
+Cost: £15.0
+Loaned: false
+Item type: video
+
+Stocks: StockID: 2
+title: Venom: Let there be Carnage
+Cost: £12.0
+Loaned: false
+Item type: video
+
+Stocks: StockID: 3
+title: The Witcher
+Cost: £17.99
+Loaned: true
+Item type: video
+
+Stocks: StockID: 1
+title: Attack & Release
+Cost: £8.0
+Loaned: false
+Item type: compactDisc
+
+Stocks: StockID: 2
+title: Stadium Arcadium
+Cost: £6.0
+Loaned: false
+Item type: compactDisc
+
+Stocks: StockID: 3
+title: Snow Crash
+Cost: £2.5
+Loaned: true
+Item type: book
+

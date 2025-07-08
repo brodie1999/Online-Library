@@ -1,0 +1,95 @@
+
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 17:06
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 17:08
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 17:09
+Logout date: 25/01/2022 17:09
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 17:21
+Logout date: 25/01/2022 17:21
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 21:28
+Logout date: 25/01/2022 21:42
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 21:45
+Logout date: 25/01/2022 21:50
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 21:51
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 21:52
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 21:55
+Logout date: 25/01/2022 22:02
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:07
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:07
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:08
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:10
+Logout date: 25/01/2022 22:18
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:25
+Logout date: 25/01/2022 22:26
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:28
+Logout date: 25/01/2022 22:29
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:30
+Logout date: 25/01/2022 22:31
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:31
+Logout date: 25/01/2022 22:31
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:33
+Logout date: 25/01/2022 22:35
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:35
+Logout date: 25/01/2022 22:37
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 22:47
+Logout date: 25/01/2022 22:48
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:03
+Logout date: 25/01/2022 23:07
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:12
+Logout date: 25/01/2022 23:12
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:12
+Logout date: 25/01/2022 23:14
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:15
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:23
+Logout date: 25/01/2022 23:24
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:27
+Logout date: 25/01/2022 23:28
+User: Weapon Grade: Admin
+Login in time: 04/03/2022 23:28
+Logout date: 04/03/2022 23:29
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:31
+Logout date: 25/01/2022 23:31
+User: Weapon Grade: Admin
+Login in time: 25/01/2022 23:37
+Logout date: 25/01/2022 23:37
+User: Weapon Grade: Admin
+Login in time: 26/01/2022 12:56
+Logout date: 26/01/2022 12:59
+User: Weapon Grade: Admin
+Login in time: 26/01/2022 13:04
+Logout date: 26/01/2022 13:05
+User: Weapon Grade: Admin
+Login in time: 26/01/2022 13:07
+Logout date: 26/01/2022 13:07
+User: Weapon Grade: Admin
+Login in time: 26/01/2022 13:40
+Logout date: 26/01/2022 13:42
+User: Weapon Grade: Admin
+Login in time: 26/01/2022 13:44
+Logout date: 26/01/2022 13:45
